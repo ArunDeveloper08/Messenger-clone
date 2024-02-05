@@ -1,8 +1,6 @@
 {
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/api/conversations/[conversationId]/seen/route": "app/api/conversations/[conversationId]/seen/route.js",
-  "/api/messages/route": "app/api/messages/route.js",
   "/(site)/page": "app/(site)/page.js",
+  "/api/conversations/[conversationId]/seen/route": "app/api/conversations/[conversationId]/seen/route.js",
   "/conversations/[conversationId]/page": "app/conversations/[conversationId]/page.js",
   "/users/page": "app/users/page.js"
 }
