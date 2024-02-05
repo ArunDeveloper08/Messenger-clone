@@ -31,10 +31,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/conversations/[conversationId]/page.js"
     ],
-    "/not-found": [
+    "/conversations/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
+      "static/chunks/app/conversations/page.js"
     ]
   }
 }
